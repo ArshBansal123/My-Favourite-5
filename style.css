@@ -1,0 +1,113 @@
+html {
+    scroll-behavior: smooth;
+}
+
+#heading {
+    background: linear-gradient(#32a846 0%, #3273a8 100%);
+}
+
+body {
+
+    text-align: center;
+    background-repeat: no-repeat;
+
+}
+
+#bio {
+    background-color: cadetblue;
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+h1 {
+    text-shadow: 2px 2px #f8bbd0;
+    font-size: 20px;
+    text-align: center;
+}
+
+.line {
+    height: 6px;
+    background-color: #000;
+    width: 70px;
+    margin: 6px auto;
+}
+
+#img {
+    border-radius: 50%;
+    width: 100px;
+
+}
+
+#myname {
+    font-family: 'Courgette', cursive;
+}
+
+.menu{
+    position: fixed;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+  
+}
+
+li {
+    float: left;
+
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+
+li a:hover {
+    background-color: #111;
+}
+
+#information {
+    background-color: coral;
+}
+
+#chatbot {
+    background-color: olivedrab;
+}
+
+.btn {
+
+    background-color: khaki;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 10;
+    padding: 20px;
+}
+
+#videos {
+    background-color: darkmagenta;
+}
+
+#inspiration {
+    background-color: lightpink;
+}
+
+#LM {
+    width: auto;
+    height: 400px;
+}
+#contact{
+    background-color: grey;
+}
